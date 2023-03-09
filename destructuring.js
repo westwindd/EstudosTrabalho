@@ -18,5 +18,3 @@ console.log(sobrenome, bemHumrada);
 
 const{ endereco: {logradouro, numero, cep}} = pessoa
 console.log(logradouro, numero, cep)
-
-const{conta:{ag, num}} = pessoa;
